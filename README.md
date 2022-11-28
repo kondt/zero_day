@@ -8,10 +8,10 @@ You will need Git for this project, you might have to [install it](https://git-s
 
 On [GitHub.com](www.github.com):
 
-   + Using the graphic interface on the website, create the repository (if it’s not done yet)
-	- Description: **This is my first repository as a full-stack engineer**
-	- Public repo: **zero_day**
-	- No **README**, **.gitignore**, or license
+   * Using the graphic interface on the website, create the repository (if it’s not done yet)
+       - Description: **This is my first repository as a full-stack engineer**
+       - Public repo: **zero_day**
+       - No **README**, **.gitignore**, or license
 
 On your computer, open a terminal and do the following:
    + Navigate to your home directory. [Tips](https://linuxconfig.org/single-linux-command-to-return-to-home-directory)
